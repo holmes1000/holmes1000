@@ -28,4 +28,6 @@ I am a computer science and robotics engineering student at [WPI](https://wpi.ed
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=holmes1000&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=holmes1000&theme=dark&hide_border=true" width = 400>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holmes1000)](https://github.com/anuraghazra/github-readme-stats)
 </p>
+  
