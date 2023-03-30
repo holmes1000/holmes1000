@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/samaraholmes/)">
@@ -17,8 +17,9 @@
 
 ### About Me
 - I am a computer science and robotics engineering student at [WPI](https://wpi.edu/).
-- In my free time I like to take photos, fly drones, and go on roadtrips
-- I'm looking for a job in robotics/aerospace, specifically relating to GNC, autonomy, and software.
+- In my free time I like to take photos, fly drones, and go on roadtrips.
+- I have experience in various aspects of engineering, working individually and in teams.
+- I'm looking for a job in robotics/aerospace, specifically relating to GNC, autonomy, and software that can provide a collaborative and friendly environment.
 
 ### Languages and Tools
 <div>
