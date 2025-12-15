@@ -16,7 +16,7 @@
 ## Hey 👋 I'm Samara
 
 ### About Me
-- I am a computer science and robotics engineering student at [WPI](https://wpi.edu/).
+- I am a robotics engineering student at [Northeastern](https://www.northeastern.edu/).
 - In my free time I like to take photos, fly drones, and go on roadtrips.
 - I have experience in various aspects of engineering, working individually and in teams.
 - I'm looking for a job in robotics/aerospace, specifically relating to GNC, autonomy, and software that can provide a collaborative and friendly environment.
