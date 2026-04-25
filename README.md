@@ -8,7 +8,7 @@
   <a href="[your-youtube-URL](https://www.youtube.com/channel/UCxYbzgpIIxl_f8kbmRtZnPA)">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="[your-website-URL](https://samaraholmes.bitbucket.io/#/)">
+  <a href="https://samaraholmes.bitbucket.io/#/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
